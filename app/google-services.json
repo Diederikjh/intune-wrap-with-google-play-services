@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1086184641108",
+    "firebase_url": "https://honeybee-10237.firebaseio.com",
+    "project_id": "honeybee-10237",
+    "storage_bucket": "honeybee-10237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086184641108:android:ec25284c3b59e9a0",
+        "android_client_info": {
+          "package_name": "com.myhoneybeekeeper.reptile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086184641108-v5sbcaj8iue0uehh4ttc78chd06as9uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myhoneybeekeeper.reptile",
+            "certificate_hash": "2df88d0c2556f683827337aea2f5d9df14cc7958"
+          }
+        },
+        {
+          "client_id": "1086184641108-ndi3g9kjpk0nn1sma375mee4ecj9u7ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpciClS3T8vG1AiTCRJQ9IeWEqLZ5GWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086184641108-ndi3g9kjpk0nn1sma375mee4ecj9u7ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086184641108:android:1b46b5446c70d7b1",
+        "android_client_info": {
+          "package_name": "com.myhoneybeekeeper.merchandiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086184641108-ndi3g9kjpk0nn1sma375mee4ecj9u7ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpciClS3T8vG1AiTCRJQ9IeWEqLZ5GWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086184641108:android:d4ab3353f32560a1",
+        "android_client_info": {
+          "package_name": "com.myhoneybeekeeper.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086184641108-ndi3g9kjpk0nn1sma375mee4ecj9u7ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpciClS3T8vG1AiTCRJQ9IeWEqLZ5GWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
